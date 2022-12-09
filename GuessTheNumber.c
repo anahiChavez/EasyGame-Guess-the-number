@@ -1,3 +1,5 @@
+//MAGALI ANAHI MEZA CHAVEZ
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
